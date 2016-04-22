@@ -2,6 +2,7 @@ name: Food for Fun
 favicon: null
 layout_spectrum: 0.22987580741755664
 typography_spectrum: 0.7479183354880661
+title: Food for Fun
 cta:
   domain: null
   bucket: null
