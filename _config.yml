@@ -1,6 +1,6 @@
 name: Food for Fun
 favicon: null
-layout_spectrum: 0.22987580741755664
+layout_spectrum: 0.99492
 typography_spectrum: 0.7479183354880661
 title: Food for Fun
 cta:
@@ -24,6 +24,6 @@ color:
     - '#004E98'
   brandStrength: 0.872352609410882
   lightness: 0.58557722507976
-  saturation: 0.09033305803313851
-  rhythmicContrast: 0.8476396184414625
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
