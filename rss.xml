@@ -4,7 +4,7 @@
         <description><![CDATA[Food for Fun]]></description>
         <link>https://thegrid.ai/food-for-fun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 12:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 14:31:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/food-for-fun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/food-for-fun/wellcome-to-food-for-funthis-site-is-about-good-foodeating/index.html</link>
             <guid isPermaLink="false">fd8a02ac-73b7-45b7-aff3-47ce93747abb</guid>
             <pubDate>Fri, 22 Apr 2016 12:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FOOD IS FUN - Promoting Healthy Eating for everyone in South West England]]></title>
+            <description><![CDATA[<article><h1>FOOD IS FUN - Promoting Healthy Eating for everyone in South West England</h1><p>Food Is Fun is about encouraging school children of all ages to explore food in a fun way to promote healthy eating for their future</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e85f45d49d2c5287b3727e7ae4ae06312c3a2b2.jpg"></article>]]></description>
+            <link>http://www.foodisfun.org.uk/index.html</link>
+            <guid isPermaLink="false">7c92d40f-0424-4dae-a761-35c60169f6f0</guid>
+            <pubDate>Wed, 31 Aug 2016 14:31:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
