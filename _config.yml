@@ -1,20 +1,4 @@
-name: Food for Fun
-favicon: null
-layout_spectrum: 0.99492
 typography_spectrum: 0.7479183354880661
-title: Food for Fun
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,4 +10,24 @@ color:
   lightness: 0.58557722507976
   saturation: 0.5
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: tonyszuch
+  appId: null
+layout_spectrum: 0.99492
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Anthony Szuch
+  email: tonyszuch@mac.com
+name: Food for Fun
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d67af57-ee08-47b2-b774-45ce50962bb8.tiff
+title: 'Let''s make food fun. '
 purpose: []
